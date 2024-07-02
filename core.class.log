@@ -1,0 +1,208 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615783123@s.whatsapp.net',
+    fromMe: false,
+    id: 'D56A340E42DCF15BAE2C23E3D0EB509A',
+    participant: undefined
+  },
+  messageTimestamp: 1719960237,
+  pushName: 'Eliana Appón',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5492615783123'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3922e83d-3465-4ad3-89e0-2c4f764eed63',
+  keyword: 'key_b57a7fcb-14b9-4f2f-b07c-f57985d2dc9b',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c23c9fd10191cb4fa298c65d2f11011f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615783123@s.whatsapp.net',
+    fromMe: false,
+    id: '64D3EC27A3C54F44BA106D9B9E5237E4',
+    participant: undefined
+  },
+  messageTimestamp: 1719960255,
+  pushName: 'Eliana Appón',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '5492615783123'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cc62bb95-2bb1-4cd4-8356-c5e82ce7b068',
+  keyword: 'key_9f62e416-f122-4a9e-8d01-aa552c542bed',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '46d679a65d8546ee16585cda65d29314'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_315ab6df-225c-4b1a-a765-65a983910e7a',
+  keyword: 'ans_cc62bb95-2bb1-4cd4-8356-c5e82ce7b068',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2b9cedfcfbb46a3ecf1aca008f5535c9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b2acc303-7723-4d1d-ac70-7f3cf160ba04',
+  keyword: 'ans_315ab6df-225c-4b1a-a765-65a983910e7a',
+  answer: '0 - Para volver al menú\nChau - Para terminar la conversación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 700,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a45618285a6783faf1df38bc8c94ce54'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615783123@s.whatsapp.net',
+    fromMe: false,
+    id: '613E38F14B0C321F8D781999433120B1',
+    participant: undefined
+  },
+  messageTimestamp: 1719960263,
+  pushName: 'Eliana Appón',
+  broadcast: false,
+  message: Message {
+    conversation: '0',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '0',
+  from: '5492615783123'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615783123@s.whatsapp.net',
+    fromMe: false,
+    id: 'B0A3254FFE1D4AD963602BB357828EB1',
+    participant: undefined
+  },
+  messageTimestamp: 1719960270,
+  pushName: 'Eliana Appón',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '4',
+  from: '5492615783123'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_eb003ff9-b7a6-4868-a34c-9e7ff03f0a0a',
+  keyword: 'key_72cadfa0-0282-4ff1-99d4-6ad3067eec2e',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '324b1c106fd0fcc566616a9bf2a5409c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_27fbc430-d75b-47f8-aa5f-fc828cab1aa7',
+  keyword: 'ans_eb003ff9-b7a6-4868-a34c-9e7ff03f0a0a',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 700,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'eb5fd0deba22af917992c4448411360a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492615783123@s.whatsapp.net',
+    fromMe: false,
+    id: '193635933AE7A65FA9A55F35490BB909',
+    participant: undefined
+  },
+  messageTimestamp: 1719960282,
+  pushName: 'Eliana Appón',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chau',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Chau',
+  from: '5492615783123'
+}
